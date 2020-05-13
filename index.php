@@ -4,7 +4,7 @@
 	<meta charset="utf-8">
 </head>
 <body>
-	<form method="POST" action="login.php">
+	<form method="POST" action="form.php">
 	<fieldset>
 	    <legend>Đăng nhập</legend>
 	    	<table>
